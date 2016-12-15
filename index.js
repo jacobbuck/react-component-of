@@ -1,3 +1,5 @@
+'use strict';
+
 var PropTypes = require('react').PropTypes
 
 module.exports = function componentOf(types) {
