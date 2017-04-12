@@ -1,4 +1,4 @@
-# `componentOf()`
+# react-component-of
 
 Custom prop type validator for checking React component types.
 
